@@ -38,7 +38,7 @@ El trabajo combina el modelado de grafos con medidas de distancia, evaluación d
 - Incorporación de riesgo, aprendizaje y adaptabilidad.
 
 ## ⚙️ Requerimientos  
-- Python 3.x  
+- Python 3.13  
 - [NetworkX](https://networkx.org/)  
 - Matplotlib  
 - Jupyter Notebook  
