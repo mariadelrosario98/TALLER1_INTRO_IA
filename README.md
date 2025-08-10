@@ -8,7 +8,10 @@ El trabajo combina el modelado de grafos con medidas de distancia, evaluación d
 
 ## 📂 Contenido del Repositorio  
 - **`README.md`** – Descripción de los ejercicios y guía de uso.  
-- **`taller_busqueda.ipynb`** – Implementación en Python de los algoritmos y ejercicios.  
+- **`EJERCICIO1.ipynb`** – Optimización de rutas rurales
+- **`EJERCICIO2.ipynb`** – Red de metro (transporte)
+- **`EJERCICIO3.ipynb`** – Filogenia (biología)
+- **`EJERCICIO4.ipynb`** – Decisiones de inversión (economía)
 - **`taller.pdf`** – Documento con enunciados, análisis y reflexiones.
 
 ## 🧠 Ejercicios Incluidos  
