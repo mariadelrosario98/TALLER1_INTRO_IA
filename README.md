@@ -12,7 +12,7 @@ El trabajo combina el modelado de grafos con medidas de distancia, evaluación d
 - **`EJERCICIO2.ipynb`** – Red de metro (transporte)
 - **`EJERCICIO3.ipynb`** – Filogenia (biología)
 - **`EJERCICIO4.ipynb`** – Decisiones de inversión (economía)
-- **`taller.pdf`** – Documento con enunciados, análisis y reflexiones.
+- **`TALLER_1___Introducción_IA_Solucion.pdf`** – Documento con enunciados, análisis y reflexiones.
 
 ## 🧠 Ejercicios Incluidos  
 
