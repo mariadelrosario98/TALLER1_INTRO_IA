@@ -18,7 +18,7 @@ El trabajo combina el modelado de grafos con medidas de distancia, evaluación d
 
 ### 1. Optimización de rutas rurales (Logística) – **Búsqueda A\***
 - Modelado de grafo ponderado con distancias.  
-- Uso de distancia euclidiana y propuesta de distancia geodésica.  
+- Uso de distancia euclidiana y propuesta de distancia  
 - Análisis de complejidad y efecto de la heurística.  
 - Reflexión sobre escalabilidad con incremento de nodos.
 
