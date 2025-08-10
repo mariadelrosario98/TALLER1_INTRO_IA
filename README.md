@@ -12,13 +12,13 @@ El trabajo combina el modelado de grafos con medidas de distancia, evaluación d
 - **`EJERCICIO2.ipynb`** – Red de metro (transporte)
 - **`EJERCICIO3.ipynb`** – Filogenia (biología)
 - **`EJERCICIO4.ipynb`** – Decisiones de inversión (economía)
-- **`taller.pdf`** – Documento con enunciados, análisis y reflexiones.
+- **`TALLER_1___Introducción_IA_Solucion.pdf`** – Documento con enunciados, análisis y reflexiones.
 
 ## 🧠 Ejercicios Incluidos  
 
 ### 1. Optimización de rutas rurales (Logística) – **Búsqueda A\***
 - Modelado de grafo ponderado con distancias.  
-- Uso de distancia euclidiana y propuesta de distancia geodésica.  
+- Uso de distancia euclidiana y propuesta de distancia  
 - Análisis de complejidad y efecto de la heurística.  
 - Reflexión sobre escalabilidad con incremento de nodos.
 
@@ -38,7 +38,7 @@ El trabajo combina el modelado de grafos con medidas de distancia, evaluación d
 - Incorporación de riesgo, aprendizaje y adaptabilidad.
 
 ## ⚙️ Requerimientos  
-- Python 3.x  
+- Python 3.13  
 - [NetworkX](https://networkx.org/)  
 - Matplotlib  
 - Jupyter Notebook  
